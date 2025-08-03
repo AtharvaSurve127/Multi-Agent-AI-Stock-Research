@@ -1,0 +1,8 @@
+agno
+groq
+duckduckgo-search
+yfinance
+openai
+tqdm
+pandas
+numpy
